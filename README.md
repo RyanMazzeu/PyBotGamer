@@ -12,7 +12,39 @@ Farms Já Criadas: Hunting shiny de magickarps e farm de HeartScale.
 
 ## Como Usar
 
-_(Fornecer instruções básicas sobre como configurar e executar o bot. Se houver pré-requisitos ou configurações especiais, mencioná-los aqui.)_
+Tutorial: Como Usar o PyBotGamer
+O PyBotGamer é um bot simples desenvolvido em Python para auxiliar nas tarefas automatizadas do jogo Pokémon. Ele executa ações específicas com base em coordenadas pré-configuradas e é projetado para interagir com o jogo quando este está em primeiro plano (não minimizado).
+
+REQUISITOS
+Antes de começar, certifique-se de que você tenha os seguintes requisitos atendidos:
+
+1. Python instalado (versão recomendada: 3.11.2)
+2. Dependências do projeto instaladas (Instalar todos os arquivos)
+   
+Passo 1: Configuração Inicial
+1. Clone ou baixe o repositório do PyBotGamer para o seu computador.
+
+2. Navegue até o diretório onde você baixou o bot.
+
+Passo 2: Configurando Coordenadas
+1. Abra o arquivo do bot (por exemplo, pybotgamer.py) em um editor de código.
+
+2. Procure as seções ou variáveis relacionadas às coordenadas. Normalmente, essas coordenadas são referentes a locais na tela onde o bot executará ações.
+
+3. Configure as coordenadas de acordo com as instruções fornecidas no arquivo ou nos comentários. Certifique-se de ajustar as coordenadas para se adequarem à resolução da tela do seu computador.
+
+Passo 3: Executando o Bot
+1. Abra o jogo Pokémon no seu computador e certifique-se de que ele esteja na tela principal (não minimizado).
+2. Abra o Bot e selecione o Bot desejado;
+3. O bot começará a executar as ações automatizadas com base nas coordenadas configuradas.
+
+Notas Importantes
+Responsabilidade e Uso Adequado: Lembre-se de que o uso de bots em jogos pode violar os termos de serviço do jogo. Certifique-se de usar o bot de forma responsável e entender as políticas do jogo em relação a automação.
+
+Personalização: O PyBotGamer é um projeto aberto, então você pode personalizá-lo e adicionar novas funcionalidades de acordo com as suas necessidades.
+
+Feedback e Contribuição: Se você tiver sugestões de melhorias ou quiser contribuir para o projeto, sinta-se à vontade para abrir um Pull Request ou entrar em contato com o desenvolvedor.
+
 
 ## Contribuição
 
@@ -24,8 +56,8 @@ Este projeto foi desenvolvido com a intenção de prática e aprendizado em ment
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](link_da_licenca). Você é livre para usar, modificar e distribuir o código de acordo com os termos da licença.
+Este projeto está licenciado sob a [Licença Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). Você é livre para usar, modificar e distribuir o código de acordo com os termos da licença.
 
 ---
 
-_PyBotGamer - Desenvolvido por [Seu Nome](link_para_seu_perfil_no_github)_
+_PyBotGamer - Desenvolvido por [Ryan Alves Mazzeu](https://github.com/RyanMazzeu)_
