@@ -37,10 +37,15 @@ Passo 2: Configurando Coordenadas
 3. Configure as coordenadas de acordo com as instruções fornecidas no arquivo ou nos comentários. Certifique-se de ajustar as coordenadas para se adequarem à resolução da tela do seu computador.
 Abaixo estão imagens indicando onde selecionar para configurar o bot de forma correta!
 ![Coordenada1](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/b3d7551b-2883-429d-9d31-f631089490f0)
+
 ![Coordenada2](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/8857f4d8-6e58-48cd-bb37-6f261f6b892e)
+
 ![Coordenada3](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/bc65b1a2-b7d6-4682-90da-cc08a6261d81)
+
 ![Coordenada4](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/63bdd6bd-da01-4040-96cc-f2c265a8bb66)
+
 ![Coordenada5,6e7](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/85eb25e5-9dfc-440f-9754-405be606e922)
+
 ![CoordenadasRetangulo](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/dd3b735f-98c7-48cd-803c-5a2552401545)
 
 
