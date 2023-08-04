@@ -1,7 +1,3 @@
-![CoordenadasRetangulo](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/66fceeca-a9e5-40c2-93c9-1ac67878657f)
-![Coordenada5,6e7](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/f6f607cd-89b5-4a33-81e0-38ae2d2c8cf0)
-![Coordenada4](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/aca97825-bfec-4fd5-a1df-573aafa916ea)
-![Coordenada3](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/75deac0a-e7ed-43be-bc03-89a0c6cc4d46)
 # PyBotGamer
 
 
