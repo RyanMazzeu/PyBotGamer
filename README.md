@@ -1,8 +1,8 @@
 # PyBotGamer
 
 imagm:
+![Banner](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/c1dd1f22-f51f-4dc8-a94d-e0e1d8e457b6)
 
-![Shiny Charizard](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/84e5d422-caab-4815-9dcd-6d4d48c96d4a)
 
 
 
