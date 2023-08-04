@@ -37,6 +37,11 @@ Passo 2: Configurando Coordenadas
 3. Configure as coordenadas de acordo com as instruções fornecidas no arquivo ou nos comentários. Certifique-se de ajustar as coordenadas para se adequarem à resolução da tela do seu computador.
 
 Passo 3: Executando o Bot
+
+
+https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/85acdb27-caa1-44f4-a9fb-ebe59818aeaf
+
+
 1. Abra o jogo Pokémon no seu computador e certifique-se de que ele esteja na tela principal (não minimizado).
    
 3. Abra o Bot e selecione o Bot desejado;
