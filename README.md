@@ -1,3 +1,7 @@
+![CoordenadasRetangulo](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/66fceeca-a9e5-40c2-93c9-1ac67878657f)
+![Coordenada5,6e7](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/f6f607cd-89b5-4a33-81e0-38ae2d2c8cf0)
+![Coordenada4](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/aca97825-bfec-4fd5-a1df-573aafa916ea)
+![Coordenada3](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/75deac0a-e7ed-43be-bc03-89a0c6cc4d46)
 # PyBotGamer
 
 
@@ -35,16 +39,30 @@ Passo 2: Configurando Coordenadas
 2. Procure as seções ou variáveis relacionadas às coordenadas. Normalmente, essas coordenadas são referentes a locais na tela onde o bot executará ações.
 
 3. Configure as coordenadas de acordo com as instruções fornecidas no arquivo ou nos comentários. Certifique-se de ajustar as coordenadas para se adequarem à resolução da tela do seu computador.
+Abaixo estão imagens indicando onde selecionar para configurar o bot de forma correta!
+![Coordenada1](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/b3d7551b-2883-429d-9d31-f631089490f0)
+![Coordenada2](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/8857f4d8-6e58-48cd-bb37-6f261f6b892e)
+![Coordenada3](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/bc65b1a2-b7d6-4682-90da-cc08a6261d81)
+![Coordenada4](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/63bdd6bd-da01-4040-96cc-f2c265a8bb66)
+![Coordenada5,6e7](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/85eb25e5-9dfc-440f-9754-405be606e922)
+![CoordenadasRetangulo](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/dd3b735f-98c7-48cd-803c-5a2552401545)
+
+
+
+
 
 Passo 3: Executando o Bot
 
 
-https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/85acdb27-caa1-44f4-a9fb-ebe59818aeaf
+
+https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/cea14447-4987-4b5b-bf86-93d4b36932bd
+
+
 
 
 1. Abra o jogo Pokémon no seu computador e certifique-se de que ele esteja na tela principal (não minimizado).
    
-3. Abra o Bot e selecione o Bot desejado;
+3. Abra o Bot e selecione o Bot desejado (Por enquanto só existe o de Magickarps :p);
    
 5. O bot começará a executar as ações automatizadas com base nas coordenadas configuradas.
 
