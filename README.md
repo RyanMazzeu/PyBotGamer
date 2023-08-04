@@ -1,7 +1,8 @@
 # PyBotGamer
 
 imagm:
-![Banner](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/c1dd1f22-f51f-4dc8-a94d-e0e1d8e457b6)
+
+![Banner](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/7673c1d3-8780-4e40-9876-15914222674c)
 
 
 
