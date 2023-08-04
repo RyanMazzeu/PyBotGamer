@@ -38,8 +38,10 @@ Passo 2: Configurando Coordenadas
 
 Passo 3: Executando o Bot
 1. Abra o jogo Pokémon no seu computador e certifique-se de que ele esteja na tela principal (não minimizado).
-2. Abra o Bot e selecione o Bot desejado;
-3. O bot começará a executar as ações automatizadas com base nas coordenadas configuradas.
+   
+3. Abra o Bot e selecione o Bot desejado;
+   
+5. O bot começará a executar as ações automatizadas com base nas coordenadas configuradas.
 
 Notas Importantes
 Responsabilidade e Uso Adequado: Lembre-se de que o uso de bots em jogos pode violar os termos de serviço do jogo. Certifique-se de usar o bot de forma responsável e entender as políticas do jogo em relação a automação.
