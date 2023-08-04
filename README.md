@@ -1,6 +1,7 @@
 # PyBotGamer
 
-![PyBotGamer Banner](![Banner](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/80c369f2-9fe6-428e-b875-50523b25c8be)
+![PyBotGamer Banner](![Banner](https://github.com/RyanMazzeu/PyBotGamer/assets/104333277/42d530a7-ff6c-42bb-a48e-bf3f8fba4b09)
+)
 )
 
 PyBotGamer é um bot Python para Pokemmo, criado para aprimorar minhas habilidades de programação enquanto otimizo a experiência de jogo. O projeto é um esforço pessoal de aprendizado, totalmente aberto a sugestões e melhorias colaborativas. Desfrute do jogo com automações inteligentes!
