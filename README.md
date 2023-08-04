@@ -32,7 +32,7 @@ Passo 1: Configuração Inicial
 Passo 2: Configurando Coordenadas
 1. Abra o arquivo do bot (por exemplo, pybotgamer.py) em um editor de código.
 
-2. Procure as seções ou variáveis relacionadas às coordenadas. Normalmente, essas coordenadas são referentes a locais na tela onde o bot executará ações.
+2. Procure as seções ou variáveis relacionadas às coordenadas. Essas coordenadas são referentes a locais na tela onde o bot executará ações.
 
 3. Configure as coordenadas de acordo com as instruções fornecidas no arquivo ou nos comentários. Certifique-se de ajustar as coordenadas para se adequarem à resolução da tela do seu computador.
 Abaixo estão imagens indicando onde selecionar para configurar o bot de forma correta!
